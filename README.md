@@ -1,1 +1,1 @@
-# projetos basicos de ciencia de dados fruto de pratica
+projetos basicos de ciencia de dados fruto de pratica
