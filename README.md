@@ -6,4 +6,6 @@ Alguns projetos voltados para a area de ciência de dados fruto de prática
 * Pandas
 * Matplotlib
 * Jupyter Notebook
-##
+## Feito por:
+### Danilo Ribeiro 
+### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-142962274/
