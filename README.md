@@ -8,5 +8,5 @@ Alguns projetos voltados para a area de ciência de dados fruto de prática. Sã
 * Jupyter Notebook
 ## Feito por:
 ### Danilo Ribeiro 
-### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-142962274/
+### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-catroli-da-silva/
 ### Email: danilo051007@gmail.com
